@@ -41,9 +41,11 @@
 <p><img align="left" src="https://github-readme-stats-git-master-franciscos-projects-73c84969.vercel.app/api/top-langs?username=frmunozz&show_icons=true&locale=en&layout=compact&size_weight=0.3&count_weight=0.7&langs_count=10&theme=gruvbox" alt="frmunozz" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats-git-master-franciscos-projects-73c84969.vercel.app/api?username=frmunozz&show_icons=true&locale=en&theme=gruvbox" alt="frmunozz" /></p>
 
+<!--
 <h3 align="left">Work Github Stats (<a href="https://github.com/frmunozForcast" target="_blank" rel="noreferrer">https://github.com/frmunozForcast</a>):</h3>
 <p><img align="left" src="https://github-readme-stats-eight-delta-95.vercel.app/api/top-langs?username=frmunozforcast&show_icons=true&locale=en&layout=compact&size_weight=0.3&count_weight=0.7&langs_count=10&theme=gruvbox" alt="frmunozforcast" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats-eight-delta-95.vercel.app/api?username=frmunozforcast&show_icons=true&locale=en&theme=gruvbox" alt="frmunozforcast" /></p>
+-->
 
 <!--
 **frmunozz/frmunozz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
